@@ -102,12 +102,6 @@ Below are example screenshots. Replace these files with real screenshots placed 
 <img width="1874" height="837" alt="Screenshot 2026-02-22 144406" src="https://github.com/user-attachments/assets/6e8ae9fa-f1ea-4577-9b60-1a402625c5c8" />
 
 
-Tips:
-
-- Recommended image size: 1200×700 (or similar widescreen ratio).
-- Use PNG or JPG for photographic screenshots; SVG is fine for illustrative mockups.
-- Add images at `public/screenshots/` and commit them to the repo so GitHub displays them in the README.
-
 ## Contributing
 
 Feel free to open issues or PRs. Keep changes focused and add tests where appropriate.
