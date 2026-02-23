@@ -1,5 +1,3 @@
-# -fully-responsive-tourism-and-hospitality-website
-
 # Tourism & Hospitality Platform
 
 A small Vite + React + TypeScript frontend with a minimal Express server for demoing tourism/hospitality features.
@@ -65,6 +63,50 @@ npm run server
 
 - Concurrent dev uses the `concurrently` package (see `dev:full` script).
 - If you change ports or environment settings, update `server/index.js` accordingly.
+
+## Screenshots
+
+Below are example screenshots. Replace these files with real screenshots placed in `public/screenshots/`.
+
+- App home
+
+
+<img width="1888" height="899" alt="Screenshot 2026-02-22 144129" src="https://github.com/user-attachments/assets/a9f0511f-a394-46bf-8e7c-069c90768454" />
+
+
+
+
+- Listing / detail view
+
+<img width="1878" height="870" alt="Screenshot 2026-02-22 144157" src="https://github.com/user-attachments/assets/7c3c52ab-35d3-4d9f-aaeb-3a2f50f51e68" />
+
+
+
+
+- Listing / detail view
+
+<img width="1878" height="890" alt="Screenshot 2026-02-22 144237" src="https://github.com/user-attachments/assets/74996209-d797-4f14-a8c0-6c7e902aeab7" />
+
+
+
+
+- Listing / detail view
+
+<img width="1868" height="870" alt="Screenshot 2026-02-22 144321" src="https://github.com/user-attachments/assets/47e9e130-9cc6-47e6-ac95-afacc796f71d" />
+
+
+
+
+- Listing / detail view
+
+<img width="1874" height="837" alt="Screenshot 2026-02-22 144406" src="https://github.com/user-attachments/assets/6e8ae9fa-f1ea-4577-9b60-1a402625c5c8" />
+
+
+Tips:
+
+- Recommended image size: 1200×700 (or similar widescreen ratio).
+- Use PNG or JPG for photographic screenshots; SVG is fine for illustrative mockups.
+- Add images at `public/screenshots/` and commit them to the repo so GitHub displays them in the README.
 
 ## Contributing
 
