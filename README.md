@@ -109,5 +109,3 @@ Feel free to open issues or PRs. Keep changes focused and add tests where approp
 ## License
 
 This project is available under the MIT License. See the LICENSE file if present or add one before publishing.
-
-
